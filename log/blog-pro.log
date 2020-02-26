@@ -1,0 +1,6 @@
+2020-01-03 10:57:21.216  INFO 11172 --- [restartedMain] com.jxlg.BlogApplication                 : Starting BlogApplication on SC-201807141442 with PID 11172 (started by Administrator in D:\Program SoftWare\IDEA WorkSpace\blog)
+2020-01-03 10:57:21.222  INFO 11172 --- [restartedMain] com.jxlg.BlogApplication                 : The following profiles are active: pro
+2020-01-03 10:57:28.796  WARN 11172 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-01-03 10:57:29.792  WARN 11172 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-01-03 10:57:30.440  WARN 11172 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-03 10:57:30.793  INFO 11172 --- [restartedMain] com.jxlg.BlogApplication                 : Started BlogApplication in 12.027 seconds (JVM running for 20.29)
